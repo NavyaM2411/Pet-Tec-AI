@@ -38,3 +38,4 @@
 | 品種識別 | 100% | 75% |
 | 皮膚檢測 | 72% | 60% |
 
+website (網站)="https://7eda5fd353ae23af55.gradio.live/"
